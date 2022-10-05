@@ -1,0 +1,16 @@
+.link{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+}
+
+.link a{
+    text-decoration: none;
+    color: black;
+    font-size: 30px;
+    padding-right: 40px;
+}
+
+.link a:hover{
+    color: orangered;
+}
